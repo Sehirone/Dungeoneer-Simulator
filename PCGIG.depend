@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1464605245 source:c:\users\lolq\desktop\pcgig\level.cpp
+	"level.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+
+1464703872 c:\users\lolq\desktop\pcgig\level.h
+	<time.h>
+
+1464780002 source:c:\users\lolq\desktop\pcgig\main.cpp
+	"level.h"
+	"character.h"
+	"enemy.h"
+	"player.h"
+	"treasure.h"
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<sstream>
+
+1464732876 source:c:\users\lolq\desktop\pcgig\character.cpp
+	"character.h"
+	<string>
+	<sstream>
+
+1464732870 c:\users\lolq\desktop\pcgig\character.h
+	<string>
+
+1464712411 source:c:\users\lolq\desktop\pcgig\enemy.cpp
+	"enemy.h"
+	<string>
+	<fstream>
+	<stdlib.h>
+	<iterator>
+
+1464697531 c:\users\lolq\desktop\pcgig\enemy.h
+	"character.h"
+	<vector>
+
+1464732099 c:\users\lolq\desktop\pcgig\player.h
+	"character.h"
+	<stack>
+
+1464734686 source:c:\users\lolq\desktop\pcgig\player.cpp
+	"player.h"
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stack>
+
+1462819297 source:c:\users\dell\desktop\c\pcgig\character.cpp
+	"character.h"
+	<string>
+
+1464185886 c:\users\dell\desktop\c\pcgig\character.h
+	<string>
+
+1462993385 source:c:\users\dell\desktop\c\pcgig\enemy.cpp
+	"enemy.h"
+	<string>
+	<fstream>
+	<stdlib.h>
+	<iterator>
+
+1462818675 c:\users\dell\desktop\c\pcgig\enemy.h
+	"character.h"
+	<vector>
+
+1464191346 source:c:\users\dell\desktop\c\pcgig\main.cpp
+	"level.h"
+	"character.h"
+	"enemy.h"
+	"player.h"
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+
+1464186637 c:\users\dell\desktop\c\pcgig\level.h
+	<time.h>
+
+1462796212 c:\users\dell\desktop\c\pcgig\player.h
+	"character.h"
+
+1462796212 source:c:\users\dell\desktop\c\pcgig\player.cpp
+	"player.h"
+	<string>
+
+1462819297 source:c:\users\dell\desktop\c\pcgig — kopia\character.cpp
+	"character.h"
+	<string>
+
+1462796212 c:\users\dell\desktop\c\pcgig — kopia\character.h
+	<string>
+
+1462818798 source:c:\users\dell\desktop\c\pcgig — kopia\enemy.cpp
+	"enemy.h"
+	<string>
+	<fstream>
+	<stdlib.h>
+	<iterator>
+
+1462818675 c:\users\dell\desktop\c\pcgig — kopia\enemy.h
+	"character.h"
+	<vector>
+
+1462982535 source:c:\users\dell\desktop\c\pcgig — kopia\main.cpp
+	"level.h"
+	"character.h"
+	"enemy.h"
+	"player.h"
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+
+1462977095 c:\users\dell\desktop\c\pcgig — kopia\level.h
+	<time.h>
+
+1462796212 c:\users\dell\desktop\c\pcgig — kopia\player.h
+	"character.h"
+
+1462796212 source:c:\users\dell\desktop\c\pcgig — kopia\player.cpp
+	"player.h"
+	<string>
+
+1462982702 source:c:\users\dell\desktop\c\pcgig — kopia\level.cpp
+	"level.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+
+1464186375 source:c:\users\dell\desktop\c\pcgig\level.cpp
+	"level.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+
+1464718185 source:c:\users\lolq\desktop\pcgig\treasure.cpp
+	"treasure.h"
+	<stdlib.h>
+
+1464732099 c:\users\lolq\desktop\pcgig\treasure.h
+
+1466523222 source:c:\users\lolq\desktop\studia\3 semestr\pcgig\character.cpp
+	"character.h"
+	<string>
+	<sstream>
+
+1464965574 c:\users\lolq\desktop\studia\3 semestr\pcgig\character.h
+	<string>
+
+1464965596 source:c:\users\lolq\desktop\studia\3 semestr\pcgig\enemy.cpp
+	"enemy.h"
+	<string>
+	<fstream>
+	<stdlib.h>
+	<iterator>
+
+1464965614 c:\users\lolq\desktop\studia\3 semestr\pcgig\enemy.h
+	"character.h"
+	<vector>
+
+1466523455 source:c:\users\lolq\desktop\studia\3 semestr\pcgig\level.cpp
+	"level.h"
+	<iostream>
+	<vector>
+	<windows.h>
+
+1464965740 c:\users\lolq\desktop\studia\3 semestr\pcgig\level.h
+
+1466523505 source:c:\users\lolq\desktop\studia\3 semestr\pcgig\main.cpp
+	"level.h"
+	"enemy.h"
+	"player.h"
+	"treasure.h"
+	"journal.h"
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<sstream>
+
+1464967768 c:\users\lolq\desktop\studia\3 semestr\pcgig\player.h
+	"character.h"
+	<stack>
+	<string>
+
+1464966016 c:\users\lolq\desktop\studia\3 semestr\pcgig\treasure.h
+
+1464965936 source:c:\users\lolq\desktop\studia\3 semestr\pcgig\player.cpp
+	"player.h"
+	<string>
+	<stack>
+
+1464966002 source:c:\users\lolq\desktop\studia\3 semestr\pcgig\treasure.cpp
+	"treasure.h"
+	<stdlib.h>
+
+1464963682 c:\users\lolq\desktop\studia\3 semestr\pcgig\journal.h
+	<vector>
+	<string>
+
+1466523376 source:c:\users\lolq\desktop\studia\3 semestr\pcgig\journal.cpp
+	"journal.h"
+	<string>
+	<vector>
+	<sstream>
+
